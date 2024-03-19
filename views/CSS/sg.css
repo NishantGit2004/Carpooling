@@ -1,0 +1,15 @@
+#form-container {
+    /* width: 20vw; */
+    display: flex;
+    flex-direction: column;
+    /* background-color: white; */
+    border: 3px solid #FEC72E;
+    border-radius: 0 0 10px 10px; 
+    margin: 200px 100px 0;
+    backdrop-filter: blur(6px);
+}
+
+#form-cont {
+    width: 30vw;
+    margin-bottom: 20px;
+}
